@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "22e05ded1f070bfd",
+    "id": "ebde71666fdfe5db",
     "type": "split",
     "children": [
       {
-        "id": "5bf8e7744c4e5b6b",
+        "id": "eacc726005b34baa",
         "type": "tabs",
         "children": [
           {
-            "id": "a2b35639ec62085f",
+            "id": "cdcbcc6fe7795da7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Student Lab Notebooks/Gunderzik_Seth/2024-02-06 Intro To The Project.md",
+                "file": "Test Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b4c014629cc85d50",
+    "id": "2cb4a7d8d6790fa2",
     "type": "split",
     "children": [
       {
-        "id": "29a946820c551712",
+        "id": "054ce196e3b05e91",
         "type": "tabs",
         "children": [
           {
-            "id": "2cf3cc3046a9f413",
+            "id": "3084e5302570004d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "4e1b322cc79cfc5d",
+            "id": "5984146540da944b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "d0898a441df4e4a1",
+            "id": "dbb7d11ef4225e8f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "6ac5820ac1e6b467",
+    "id": "39d29b1cf76d92ad",
     "type": "split",
     "children": [
       {
-        "id": "97bce5d11e08f815",
+        "id": "a1a7078760642e31",
         "type": "tabs",
         "children": [
           {
-            "id": "376ef4e692e89f6e",
+            "id": "93a3b5ae45dfa627",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Student Lab Notebooks/Gunderzik_Seth/2024-02-06 Intro To The Project.md",
+                "file": "Test Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "a78ff04da45d9233",
+            "id": "a6c1959b2e19fac9",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Student Lab Notebooks/Gunderzik_Seth/2024-02-06 Intro To The Project.md",
+                "file": "Test Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "c07cd62721a2b728",
+            "id": "ee11aca108f68644",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +120,12 @@
             }
           },
           {
-            "id": "aab21c81c80e8544",
+            "id": "56844709d8dbf51b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Student Lab Notebooks/Gunderzik_Seth/2024-02-06 Intro To The Project.md"
+                "file": "Test Note.md"
               }
             }
           }
@@ -143,27 +143,11 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "homepage:Open homepage": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "a2b35639ec62085f",
+  "active": "cdcbcc6fe7795da7",
   "lastOpenFiles": [
-    "Student Lab Notebooks/Gunderzik_Seth/Gunderzik Seth Table of Contents.md",
-    "Student Lab Notebooks/Gunderzik_Seth/2024-02-06 Intro To The Project.md",
-    "Student Lab Notebooks/Gunderzik_Seth/2024-02-08 Beginning to Tackle the Code.md",
-    "Student Lab Notebooks/Gunderzik_Seth/2024-02-13 Going to War with Code.md",
-    "Student Lab Notebooks/Gunderzik_Seth/2024-02-01 1 1 1.md",
-    "Student Lab Notebooks/Gunderzik_Seth/Pasted image 20240213105758.png",
-    "Student Lab Notebooks/Gunderzik_Seth/2024-02-01 1 1 1 1.md",
-    "Student Lab Notebooks/Gunderzik_Seth/New Note.md",
-    "Student Lab Notebooks/2024-02-06.md",
-    "00_Main Note.md",
-    "Student Lab Notebooks/Gunderzik Seth Table of Contents.md",
-    "Student Lab Notebooks/Student Lab Notebooks.md",
-    "Zimmerman Sample Notebook/Zimmerman - Table of Contents.md",
-    "Student Lab Notebooks/Lastname_Firstname/Gunderzik_Seth",
-    "README.md",
-    "Welcome.md"
+    "Test Note.md"
   ]
 }
