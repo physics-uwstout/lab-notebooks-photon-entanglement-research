@@ -1,0 +1,7 @@
+- Today Ryan was gone but me and Ulrik continued to work on getting the code to run.
+- It actually worked. you must first follow the install -e instruction in the instruction manual in the provided code. 
+- this installs a script on your computer so you can run the code by just typing fpga-ccu without redirecting your computer or anything
+- I got a error the first time i did this saying something along the lines of Serial wasn't available and i couldn't install serial with pip but for some reason closing the command prompt window and retrying made it work.
+- Now i am getting the code to run as pictured below but am not getting any actual data as we have seen in previous years.
+- My working theory is that the FPGA may not be running any code since the indicator light that is supposed to blink when code is running is currently doing nothing so I'm wondering if maybe the code isn't running there
+- Ulrink downloaded Quartus prime and began following the directions in the read me first document but this maybe be a task for next class and will be where we pick up. ![[Pasted image 20240213105758.png]]

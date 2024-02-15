@@ -1,0 +1,4 @@
+- Today was a introduction to the proejct
+- I basically just explained the basics of the physics to Ulrik and Ryan who will be my group mates for the remainder of the semester.
+- Ulrik is a fellow 439 student but Ryan is a 139 Student so i had to make sure to explain things in terms he could understand since he does not have any experience with Quantum Mechanics or Optics
+- Once things were explained we began taking apart the experiment from last time and decided we would rerun everything that has been done
