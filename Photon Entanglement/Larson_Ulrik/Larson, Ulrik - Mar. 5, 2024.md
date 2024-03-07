@@ -4,12 +4,7 @@ End-of-day summary:
 - FPGA has yet to behave to our satisfaction, but I haven't proven it is broken or unusable.
 - A 64-bit Linux machine has been obtained and has opened Quartus Prime Lite. Whether or not the proper drivers for the serial adapter or the Altera blaster are installed is currently unknown, but the Linux machine has identified both devices.
 - Should a way to attenuate the laser be necessary, a neutral density filter is recommended.
-- A method of controlling ambient light is currently pending, though we still possess a curtain. ...I think? (I'm writing this after I locked the door to the lab behind me, so I can't check.)
-
-*Ryan has been absent for a long while now, but he doesn't seem to have dropped the course. If I messaged him over Teams, he'd probably get back to me.*
-*That said, I know the importance of rest during illness. In the case of Covid, it can help reduce the risk of Covid-induced strokes in otherwise healthy individuals. (Or maybe rest helps reduce the risk of long Covid according to anecdotal evidence, and Tylenol reduces the risk of brain damage? I don't remember; I read about it a while ago and my memory is fuzzy now.)*
-*They didn't specify Covid, of course, but rest is good for any illness and increases long-term health outcomes.*
-*Regardless, we may soon desire Ryan's assistance.*
+- ~~A method of controlling ambient light is currently pending, though we still possess a curtain. ...I think? (I'm writing this after I locked the door to the lab behind me, so I can't check.)~~ Just kidding, some other folks nabbed it earlier.
 
 I'm missing a couple lab book entries, you may have noticed.
 I assure you, not much important has happened during that time.
