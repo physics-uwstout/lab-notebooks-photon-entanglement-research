@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "25ba6efdd15a5215",
+    "type": "split",
+    "children": [
+      {
+        "id": "64e03f07c386ffb9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6dc9859753c452b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "993b366ce090da96",
+    "type": "split",
+    "children": [
+      {
+        "id": "e95e0ce4b096f273",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33d7f40e6a3d889e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "903e5df2a15afaea",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6fab018567ff8ec3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d3389015b43fab84",
+    "type": "split",
+    "children": [
+      {
+        "id": "719828d6e77985fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f7fdf00c2555b02",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "60f491d36c29da00",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5e858e444b89a051",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c75d412ca0b18ba4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e6dc9859753c452b",
+  "lastOpenFiles": [
+    "Photon Entanglement/Vue_Ryan/Jupyter Notebooks and Data Files/README.md",
+    "Photon Entanglement/Vue_Ryan/Jupyter Notebooks and Data Files",
+    "Photon Entanglement/Vue Ryan Table of Contents.md",
+    "2024-03-07.md",
+    "2024-02-20.md",
+    "2024-02-15.md",
+    "2024-02-08.md",
+    "2024-02-06.md",
+    "03-19-2024.md",
+    "Photon Entanglement/Untitled.canvas",
+    "Photon Entanglement/Pasted image 20240305090112.png",
+    "Photon Entanglement/Larson_Ulrik/Larson, Ulrik - Mar. 7, 2024.md",
+    "Photon Entanglement/Larson_Ulrik/Larson, Ulrik - Mar. 5, 2024.md",
+    "Photon Entanglement/Larson_Ulrik/Larson, Ulrik - Mar. 19, 2024.md",
+    "Photon Entanglement/Larson_Ulrik/Larson, Ulrik - Feb. 22, 2024.md",
+    "Photon Entanglement/Larson_Ulrik/Larson, Ulrik - Feb. 19-20, 2024.md",
+    "Photon Entanglement/Larson_Ulrik/Larson, Ulrik - Feb. 15, 2024.md",
+    "Photon Entanglement/Larson_Ulrik/Images/Sketch of Planned Experiment.png",
+    "Photon Entanglement/Larson_Ulrik/Images/liquid cat.png",
+    "Photon Entanglement/Larson_Ulrik/Images/Going Without the FPGA.png",
+    "Photon Entanglement/Larson_Ulrik/Images/2-15-2024 Quartus-No-Work.png",
+    "Photon Entanglement/Larson_Ulrik/Images",
+    "Photon Entanglement/2024-02-22.md",
+    "Photon Entanglement/2024-01-31.md",
+    "README.md",
+    "Photon Entanglement/Vue_Ryan/Vue Ryan Table of Contents.md",
+    "Photon Entanglement/Vue_Ryan/2024-02-08.md",
+    "Photon Entanglement/Vue_Ryan/2024-02-06.md",
+    "Photon Entanglement/Larson_Ulrik/Larson, Ulrik - Table of Contents.md",
+    "Photon Entanglement/Larson_Ulrik/Larson, Ulrik - Feb. 8, 2024.md",
+    "Photon Entanglement/Gunderzik_Seth/Test Note.md",
+    "Photon Entanglement/Gunderzik_Seth/Another test note.md",
+    "Photon Entanglement/Gunderzik_Seth/2024-02-13 Going to War with Code.md",
+    "Photon Entanglement/Gunderzik_Seth/2024-02-06 Intro To The Project.md",
+    "Photon Entanglement/Larson_Ulrik/liquid cat.png"
+  ]
+}
