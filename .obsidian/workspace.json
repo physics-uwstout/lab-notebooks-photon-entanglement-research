@@ -8,14 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e6dc9859753c452b",
+            "id": "9c83a6ae3fedb0d6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2024-03-19.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f5b6485bc80e0a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-02-22.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fec391fe1d22ac84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-02-06.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024-02-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024-02-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024-02-06.md"
+              }
             }
           }
         ]
@@ -138,42 +171,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e6dc9859753c452b",
+  "active": "fec391fe1d22ac84",
   "lastOpenFiles": [
+    "2024-02-08.md",
+    "2024-02-13.md",
+    "2024-02-15.md",
+    "2024-02-20.md",
+    "2024-02-22.md",
+    "2024-02-27.md",
+    "2024-02-29.md",
+    "2024-03-05.md",
+    "2024-03-07.md",
+    "2024-03-19.md",
+    "Photon Entanglement/Larson_Ulrik/Larson, Ulrik - Feb. 19-20, 2024.md",
+    "Photon Entanglement/Larson_Ulrik/Larson, Ulrik - Feb. 22, 2024.md",
+    "Photon Entanglement/Larson_Ulrik/Larson, Ulrik - Feb. 15, 2024.md",
+    "2024-02-06.md",
+    "2024-01-31.md",
+    "Photon Entanglement/Larson_Ulrik/Larson, Ulrik - Mar. 5, 2024.md",
+    "Photon Entanglement/Vue Ryan Table of Contents.md",
+    "Photon Entanglement/Gunderzik_Seth/2024-02-13 Going to War with Code.md",
+    "Photon Entanglement/Larson_Ulrik/Larson, Ulrik - Feb. 13, 2024.md",
     "Photon Entanglement/Vue_Ryan/Jupyter Notebooks and Data Files/README.md",
     "Photon Entanglement/Vue_Ryan/Jupyter Notebooks and Data Files",
-    "Photon Entanglement/Vue Ryan Table of Contents.md",
-    "2024-03-07.md",
-    "2024-02-20.md",
-    "2024-02-15.md",
-    "2024-02-08.md",
-    "2024-02-06.md",
-    "03-19-2024.md",
     "Photon Entanglement/Untitled.canvas",
     "Photon Entanglement/Pasted image 20240305090112.png",
     "Photon Entanglement/Larson_Ulrik/Larson, Ulrik - Mar. 7, 2024.md",
-    "Photon Entanglement/Larson_Ulrik/Larson, Ulrik - Mar. 5, 2024.md",
     "Photon Entanglement/Larson_Ulrik/Larson, Ulrik - Mar. 19, 2024.md",
-    "Photon Entanglement/Larson_Ulrik/Larson, Ulrik - Feb. 22, 2024.md",
-    "Photon Entanglement/Larson_Ulrik/Larson, Ulrik - Feb. 19-20, 2024.md",
-    "Photon Entanglement/Larson_Ulrik/Larson, Ulrik - Feb. 15, 2024.md",
     "Photon Entanglement/Larson_Ulrik/Images/Sketch of Planned Experiment.png",
     "Photon Entanglement/Larson_Ulrik/Images/liquid cat.png",
     "Photon Entanglement/Larson_Ulrik/Images/Going Without the FPGA.png",
     "Photon Entanglement/Larson_Ulrik/Images/2-15-2024 Quartus-No-Work.png",
     "Photon Entanglement/Larson_Ulrik/Images",
-    "Photon Entanglement/2024-02-22.md",
-    "Photon Entanglement/2024-01-31.md",
     "README.md",
     "Photon Entanglement/Vue_Ryan/Vue Ryan Table of Contents.md",
     "Photon Entanglement/Vue_Ryan/2024-02-08.md",
     "Photon Entanglement/Vue_Ryan/2024-02-06.md",
-    "Photon Entanglement/Larson_Ulrik/Larson, Ulrik - Table of Contents.md",
-    "Photon Entanglement/Larson_Ulrik/Larson, Ulrik - Feb. 8, 2024.md",
-    "Photon Entanglement/Gunderzik_Seth/Test Note.md",
-    "Photon Entanglement/Gunderzik_Seth/Another test note.md",
-    "Photon Entanglement/Gunderzik_Seth/2024-02-13 Going to War with Code.md",
-    "Photon Entanglement/Gunderzik_Seth/2024-02-06 Intro To The Project.md",
     "Photon Entanglement/Larson_Ulrik/liquid cat.png"
   ]
 }
