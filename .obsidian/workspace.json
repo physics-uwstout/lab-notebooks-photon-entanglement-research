@@ -37,14 +37,86 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-02-06.md",
+                "file": "Photon Entanglement/Vue Ryan Table of Contents.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c1891631f92314f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-03-19.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab9f9064ea8ce318",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-03-21.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "98d8930eca3a850f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-03-26.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fcf5426ce0a515cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-03-28.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "87bb6d02dc964943",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-04-02.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "74d3f609967945d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-04-04.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -110,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-02-06.md",
+                "file": "2024-04-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-02-06.md",
+                "file": "2024-04-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-02-06.md"
+                "file": "2024-04-04.md"
               }
             }
           }
@@ -171,42 +243,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fec391fe1d22ac84",
+  "active": "74d3f609967945d6",
   "lastOpenFiles": [
+    "2024-04-02.md",
+    "2024-04-04.md",
+    "2024-03-28.md",
+    "2024-03-26.md",
+    "2024-03-21.md",
+    "2024-03-19.md",
+    "2024-03-05.md",
+    "2024-02-27.md",
+    "2024-02-29.md",
+    "2024-02-22.md",
+    "2024-02-20.md",
+    "Photon Entanglement/Vue Ryan Table of Contents.md",
+    "Photon Entanglement/Pasted image 20240305090112.png",
+    "Photon Entanglement/Untitled.canvas",
+    "2024-02-06.md",
     "2024-02-08.md",
     "2024-02-13.md",
     "2024-02-15.md",
-    "2024-02-20.md",
-    "2024-02-22.md",
-    "2024-02-27.md",
-    "2024-02-29.md",
-    "2024-03-05.md",
     "2024-03-07.md",
-    "2024-03-19.md",
     "Photon Entanglement/Larson_Ulrik/Larson, Ulrik - Feb. 19-20, 2024.md",
     "Photon Entanglement/Larson_Ulrik/Larson, Ulrik - Feb. 22, 2024.md",
     "Photon Entanglement/Larson_Ulrik/Larson, Ulrik - Feb. 15, 2024.md",
-    "2024-02-06.md",
     "2024-01-31.md",
     "Photon Entanglement/Larson_Ulrik/Larson, Ulrik - Mar. 5, 2024.md",
-    "Photon Entanglement/Vue Ryan Table of Contents.md",
     "Photon Entanglement/Gunderzik_Seth/2024-02-13 Going to War with Code.md",
     "Photon Entanglement/Larson_Ulrik/Larson, Ulrik - Feb. 13, 2024.md",
     "Photon Entanglement/Vue_Ryan/Jupyter Notebooks and Data Files/README.md",
     "Photon Entanglement/Vue_Ryan/Jupyter Notebooks and Data Files",
-    "Photon Entanglement/Untitled.canvas",
-    "Photon Entanglement/Pasted image 20240305090112.png",
     "Photon Entanglement/Larson_Ulrik/Larson, Ulrik - Mar. 7, 2024.md",
-    "Photon Entanglement/Larson_Ulrik/Larson, Ulrik - Mar. 19, 2024.md",
     "Photon Entanglement/Larson_Ulrik/Images/Sketch of Planned Experiment.png",
     "Photon Entanglement/Larson_Ulrik/Images/liquid cat.png",
     "Photon Entanglement/Larson_Ulrik/Images/Going Without the FPGA.png",
     "Photon Entanglement/Larson_Ulrik/Images/2-15-2024 Quartus-No-Work.png",
     "Photon Entanglement/Larson_Ulrik/Images",
-    "README.md",
-    "Photon Entanglement/Vue_Ryan/Vue Ryan Table of Contents.md",
-    "Photon Entanglement/Vue_Ryan/2024-02-08.md",
-    "Photon Entanglement/Vue_Ryan/2024-02-06.md",
     "Photon Entanglement/Larson_Ulrik/liquid cat.png"
   ]
 }
