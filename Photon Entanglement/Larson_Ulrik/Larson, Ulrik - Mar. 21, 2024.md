@@ -8,3 +8,4 @@ I've fiddled with it a bit more, and I figured out a way that gets the USB-Blast
 
 1. Perform the following steps in any order:
 	1. Open Quartus Prime, and open the project you wish to use.
+(This segment was left undone, but is finished in the Apr. 4, 2024 entry)
