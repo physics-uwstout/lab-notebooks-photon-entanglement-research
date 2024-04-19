@@ -50,11 +50,11 @@ The way we got our FPGA loading the code was this (explained in the "Quartus-No-
 2. Close hardware setup. Open hardware setup again.
 	- If your device setup shows a USB blaster variant, close it and open it again.
 		- If the problem persists, contact your local wizard or try running the script again.
-	- If your device setup shows nothing, close it and open it again.
-		- This is the expected state of things.
+	- If your device setup shows nothing, that's okay.
+		- This is the expected state of things. Just close it and open it again. It should then show up.
 	- If your device setup shows a USB blaster (NOT a variant!!!) you're golden!
 Note that the "quartus-no-work?.txt" assumes you are trying to run demo code using JTAG-run-mode rather than active serial programming, and thus recommends you have your FPGA switched to RUN mode.
-Ignore this directive when attempting to use our project.
+Ignore this directive when attempting to use our project. Put your FPGA on PROGRAM mode.
 
 
 
@@ -70,3 +70,4 @@ python ccu_log.py
 # I'm informed that serial has no such item "Serial" -- possibly because I'm not plugged into the FPGA.
 ```
 Well, this is a problem. I don't have anything written about how to solve this.
+How in the heck did Seth get this working?
