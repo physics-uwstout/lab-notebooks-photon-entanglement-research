@@ -22,7 +22,7 @@ However, if it could be slowed down, any computer could be made to work if it ca
 
 With the FPGA, the laser's output is sufficiently reduced by the downconversion crystal -- or something. The downconverted beams hit the detectors, the detections are quickly registered by the FPGA, and then they are read by the Python code.
 
-Without the FPGA, something needs to dim our laser before it reaches the downconversion crystal. Anything that doesn't seriously alter the properties of the "surviving" laser light should work, so something like food coloring, purified water, and a square glass vessel - plus a pinhole to prevent diffused light from reaching the detectors - might be good enough, but in the image I have two sheets of dark glass.
+Without the FPGA, something needs to dim our laser before it reaches the downconversion crystal. Anything that doesn't seriously alter the properties of the "surviving" laser light should work, so something like ~~food coloring, purified water, and a square glass vessel~~ **no absolutely don't do that** - ~~plus a pinhole to prevent diffused light from reaching the detectors~~ **no** - ~~might be good enough,~~ **no it will not be good, we are doing quantum science** but in the image I have two sheets of dark glass.
 This will reduce the number of photons that reach the downconversion crystal, and thus how many photons will reach the detectors.
 With a sufficient reduction of light, it will then be possible to determine whether a coincidence of detections occurs with even the slowest hardware.
 
