@@ -25,14 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-04-11.md",
+                "file": "2024-04-16.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "48ddb4aeda0de65e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-04-18.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "76bac66313440279",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-03-28.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-04-11.md",
+                "file": "2024-03-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-04-11.md",
+                "file": "2024-03-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-04-11.md"
+                "file": "2024-03-28.md"
               }
             }
           }
@@ -159,42 +183,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b3e83291db1a22b",
+  "active": "76bac66313440279",
   "lastOpenFiles": [
+    "2024-03-26.md",
+    "2024-03-21.md",
+    "2024-04-25.md",
+    "2024-04-23.md",
+    "2024-04-18.md",
     "2024-04-16.md",
-    "Photon Entanglement/Vue_Ryan/Vue Ryan Table of Contents.md",
-    "Photon Entanglement/Vue_Ryan/2024-04-16.md",
-    "Photon Entanglement/Vue_Ryan/2024-04-11.md",
-    "Photon Entanglement/Vue_Ryan/2024-04-09.md",
-    "Photon Entanglement/Vue_Ryan/2024-04-04.md",
-    "Photon Entanglement/Vue_Ryan/2024-04-02.md",
-    "Photon Entanglement/Vue_Ryan/2024-03-28.md",
-    "Photon Entanglement/Vue_Ryan/2024-03-26.md",
-    "Photon Entanglement/Vue_Ryan/2024-03-21.md",
-    "Photon Entanglement/Vue_Ryan/2024-03-19.md",
-    "Photon Entanglement/Vue_Ryan/2024-03-07.md",
-    "Photon Entanglement/Vue_Ryan/2024-03-05.md",
-    "Photon Entanglement/Vue_Ryan/2024-02-29.md",
-    "Photon Entanglement/Vue_Ryan/2024-02-27.md",
-    "Photon Entanglement/Vue_Ryan/2024-02-22.md",
-    "Photon Entanglement/Vue_Ryan/2024-02-20.md",
-    "Photon Entanglement/Vue_Ryan/2024-02-15.md",
-    "Photon Entanglement/Vue_Ryan/2024-02-13.md",
-    "Photon Entanglement/Vue_Ryan/2024-02-08.md",
-    "Photon Entanglement/Vue_Ryan/2024-02-06.md",
     "2024-04-11.md",
-    "2024-04-09.md",
-    "2024-04-04.md",
-    "2024-04-02.md",
     "2024-03-28.md",
+    "2024-03-19.md",
+    "2024-04-02.md",
+    "2024-04-09.md",
+    "Photon Entanglement/Larson_Ulrik/Larson, Ulrik - Mar. 21, 2024.md",
+    "2024-04-04.md",
+    "2024-03-07.md",
+    "Photon Entanglement/Larson_Ulrik/Larson, Ulrik - Consider the Future Generations.md",
+    "Photon Entanglement/Larson_Ulrik/Larson, Ulrik - Apr. 9, 2024.md",
+    "Photon Entanglement/Larson_Ulrik/Larson, Ulrik - Apr. 23, 2024.md",
+    "Photon Entanglement/Larson_Ulrik/Larson, Ulrik - Apr. 11, 2024.md",
+    "Photon Entanglement/Larson_Ulrik/Images/find-the-issue.png",
+    "Photon Entanglement/Larson_Ulrik/Images/I can't believe we're doing this with a box.png",
+    "Photon Entanglement/Larson_Ulrik/Images/Experiment #3 Plan.png",
+    "Photon Entanglement/Larson_Ulrik/Images/Experiment #2 Plan.png",
+    "Photon Entanglement/Larson_Ulrik/Images/Experiment #1 Plan.png",
+    "Photon Entanglement/Larson_Ulrik/Images/Back Reflection.png",
+    "Photon Entanglement/Larson_Ulrik/Images/Back Reflection II.png",
+    "Photon Entanglement/Larson_Ulrik/Images/Are we for real right now.png",
+    "Photon Entanglement/Vue_Ryan/2024-04-23.md",
+    "Photon Entanglement/Vue_Ryan/2024-04-18.md",
+    "2024-03-05.md",
+    "2024-02-29.md",
+    "2024-02-27.md",
+    "2024-02-22.md",
+    "2024-02-20.md",
+    "2024-02-15.md",
     "Photon Entanglement/Pasted image 20240305090112.png",
     "Photon Entanglement/Untitled.canvas",
     "Photon Entanglement/Vue_Ryan/Jupyter Notebooks and Data Files",
     "Photon Entanglement/Larson_Ulrik/Images/Sketch of Planned Experiment.png",
-    "Photon Entanglement/Larson_Ulrik/Images/liquid cat.png",
-    "Photon Entanglement/Larson_Ulrik/Images/Going Without the FPGA.png",
-    "Photon Entanglement/Larson_Ulrik/Images/2-15-2024 Quartus-No-Work.png",
-    "Photon Entanglement/Larson_Ulrik/Images",
-    "Photon Entanglement/Larson_Ulrik/liquid cat.png"
+    "Photon Entanglement/Larson_Ulrik/Images"
   ]
 }
