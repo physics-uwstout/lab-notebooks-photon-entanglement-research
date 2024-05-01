@@ -13,6 +13,7 @@ I'm sure this will get figured out at some point.
 We spent some time dismantling the previous apparatus. Its parts are likely all functional -- not that I checked myself -- but the whole was never convinced to work as intended.
 
 I actually don't know why I was told to disassemble it. They seemed unsure of the decision for a while as well.
+**(Addendum, 4/30/2024: This ended up being a terrible idea.)**
 
 The different parts are as follows, most of which are either bolts, a boltboard, or possible to bolt to the boltboard:
 - A big ol' board with threaded holes marked Thorlabs
