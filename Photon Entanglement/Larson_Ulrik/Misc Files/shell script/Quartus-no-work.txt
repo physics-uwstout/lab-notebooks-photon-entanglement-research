@@ -1,0 +1,19 @@
+Are you tired of "quartus no work"-itis?
+Is your USB blaster registering as a "Variant" device and not doing its job?
+Fear not; with this simple trick I made for you, all that can be fixed!
+Just open Quartus, open the default demo project, and go to programmer mode.
+
+Then, open the terminal:
+
+su root
+	[You'll need to invoke the magical temporaryROOT]
+cd Desktop
+	[Navigates to the proper directory; this might be different for you.]
+./ulrik-quartus-fixer.sh
+
+And then you're golden! Quartus will figure out the rest if everything worked correctly.
+Open programmer mode (if you haven't already), go to hardware setup, and select your
+device as usual. If nothing shows up, close the hardware setup and open it again.
+(Also make sure the FPGA is plugged in and in RUN mode.)
+If USB Blaster shows up but it isn't a variant device, you're good to go!
+If USB Blaster Variant shows up, you either didn't use it right or you're screwed.

@@ -1,0 +1,8 @@
+- Today we began really looking at the coding for this project 
+- I felt like I largely remembered how to use the code from last time i ran this project but trying to actually run things has proven me wrong
+- I know all of the code we were only ever able to get working by running it in the command prompt window but we are having problems with it this time.
+- I know the code needs to be run in the order of ccu_log.py before you can do ccu_monitor.py or ccu_record.py
+- When running the code me and Ryan encountered a problem where it appears we did not have Python installed on our computers. It seems strange to me i did not encounter this issue at all last time but so be it.
+- We downloaded Python from the internet. 
+	- We missed it the first time but had to go back to make sure pip was installed with Python
+- We then tried to run the code but some weird things such a numpy and Serial were not installed so we tried to use pip to install those but eventually ran into imp which could not be downloaded and led us to the end of our day
