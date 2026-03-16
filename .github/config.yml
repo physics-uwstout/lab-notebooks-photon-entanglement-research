@@ -4,8 +4,8 @@
 # .github/feedback/GITHUB_MODELS_SETTINGS.md
 
 # Report file settings
-report_file: "index.qmd"
-report_format: "quarto"  # quarto, markdown, jupyter, latex
+report_file: "2024-02-06.md"
+report_format: "markdown"  # quarto, markdown, jupyter, latex
 
 # Optional supplementary files to analyze
 # These files will be checked for existence and referenced in feedback
